@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uranos498
-- 👀 I’m interested in Astronomy tools
+- 👀 I’m interested in Astronomy tools, currently concerning link with IVOA (ie SAMP protocol)
 - 🌱 I’m currently learning retirement
 - 💞️ I’m looking to collaborate on different IDE
 - 📫 How to reach me : pull a request
